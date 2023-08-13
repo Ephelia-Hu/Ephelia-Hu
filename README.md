@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Epheliahzy
+- 👋 Hi, I’m @Ephelia Hu
 - 👀 I’m interested in web game developing
 - 🌱 I’m currently learning C# Python HTML 
 - 📫 How to reach me epheliahu@gmail.com
